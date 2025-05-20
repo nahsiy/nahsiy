@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nahsiy and i'm French
-- 👀 I am a junior system administrator
-- 🌱 I’m currently learning ansible, markdown & asciidoc 
+- 👀 I am a Devops / Cloud Engineer
 - 💞️ I love linux & open source 
 - 📫 How to reach me ...
 
