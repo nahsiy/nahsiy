@@ -1,8 +1,8 @@
-[![Christophe Massieu - DevOps & CloudOps Engineer](banner-devops.png)](https://christophe-massieu.com/)
+[![Christophe Massieu - Devops Engineer](banner-devops.png)](https://christophe-massieu.com/)
 
 # Christophe Massieu
 
-DevOps & CloudOps Engineer à Bordeaux.
+Devops Engineer à Bordeaux.
 
 Je travaille sur des infrastructures Linux, l'automatisation des déploiements
 et la supervision. Ici, je partage mes projets personnels et mes configurations.
