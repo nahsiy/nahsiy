@@ -21,12 +21,23 @@ livraison, supervision et diagnostic.
 
 ### Consul-Traefik Lab
 
-Un laboratoire pour expérimenter la découverte de services, le routage
-dynamique et l'Infrastructure as Code, avec un parcours documenté par composant.
+Un laboratoire local pour expérimenter la découverte de services, le routage
+dynamique et l'Infrastructure as Code. Les tests vérifient le trafic, les
+métriques, les logs et la détection d'une panne avec retour automatique.
 
-Consul · Traefik · Terraform · Ansible · Prometheus · Grafana · Loki
+Consul · Traefik · Terraform · Ansible · Prometheus · Grafana · Loki · Alloy
 
-[Voir le dépôt public sur GitLab](https://gitlab.com/cmassieu/consul-traefik-lab)
+[Voir le laboratoire sur GitHub](https://github.com/nahsiy/consul-traefik-lab)
+
+### Dotfiles
+
+Mes configurations de terminal pour Linux et macOS, avec un installateur
+Ansible qui propose un aperçu avant application et sauvegarde les fichiers
+remplacés. Tests automatisés pour vérifier l'installation et les protections.
+
+Zsh · tmux · Vim/Neovim · WezTerm · Starship · Ansible
+
+[Voir les dotfiles](https://github.com/nahsiy/Dotfiles)
 
 ### Portfolio et Carnet IA
 
