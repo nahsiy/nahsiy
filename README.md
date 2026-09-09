@@ -1,4 +1,4 @@
-[![Christophe Massieu - Devops Engineer](banner-devops.png?v=devops-engineer)](https://christophe-massieu.com/)
+[![Christophe Massieu - Devops Engineer](https://raw.githubusercontent.com/nahsiy/nahsiy/f7f9c601ad04c9f3d84b4d84e463577f236e88a2/banner-devops.png)](https://christophe-massieu.com/)
 
 # Christophe Massieu
 
